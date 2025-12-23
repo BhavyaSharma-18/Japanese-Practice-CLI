@@ -15,7 +15,7 @@ This project solves the problem of "passive learning" by forcing active recall. 
 ## ⚙️ How to Run
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/nihongo-cli-trainer.git](https://github.com/yourusername/nihongo-cli-trainer.git)
+    git clone [https://github.com/BhavyaSharma-18/Japanese-Practice-CLI.git](https://github.com/BhavyaSharma-18/Japanese-Practice-CLI.git)
     cd nihongo-cli-trainer
     ```
 
